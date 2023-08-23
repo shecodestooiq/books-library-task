@@ -1,7 +1,13 @@
-import './App.css';
+import "./App.css";
+import Library from "./components/Library";
+import { BooksProvider } from "./store/store";
 
 function App() {
-  return <>Books Library App</>;
+  return (
+    <BooksProvider>
+      <Library />
+    </BooksProvider>
+  );
 }
 
 export default App;
