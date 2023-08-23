@@ -1,7 +1,12 @@
 import './App.css';
+import Home from './pages/home';
+import {BooksProvider} from './components/BooksContext';
 
 function App() {
-  return <>Books Library App</>;
+  return <BooksProvider>
+    <Home />
+  </BooksProvider>
+
 }
 
 export default App;
