@@ -2,13 +2,19 @@ import "./App.css";
 import BooksGrid from "./components/BooksGrid";
 import FirstSection from "./components/FirstSection";
 import Search from "./components/Search";
+import { InputProvider } from "./providers/booksContext";
+
 
 function App() {
   return (
     <>
       <FirstSection />
-      <Search/>
-      <BooksGrid/>
+    
+
+      <InputProvider>
+        <Search />
+        <BooksGrid />
+      </InputProvider>
     </>
   );
 }

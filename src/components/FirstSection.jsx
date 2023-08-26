@@ -3,6 +3,7 @@ import pic from "../images/c5e5f722781315.5787cb9bb9569.jpg";
 
 
 function FirstSection() {
+  
   return (
     <>
       <div className="cover-container">

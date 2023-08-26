@@ -1,20 +1,43 @@
-import React from "react";
+import React, { useEffect, useState, useContext } from "react";
+import getBooks from "../services/api";
+import { Context } from "../providers/booksContext";
+import Book from "./Book";
 
 function BooksGrid() {
+  const [books, setBooks] = useState([]);
+
+  const { currentInput } = useContext(Context);
+
+  useEffect(() => {
+    getBooks(setBooks);
+  }, []);
+
+  console.log(currentInput);
   return (
     <div className="books-wrapper">
-      <div className="book-item">
-        <div className="book-img"></div>
-        <div className="book-info">
-          <h2>Title</h2>
-          <p>desc</p>
-        </div>
-      </div>
-      <div className="book-item"></div>
-      <div className="book-item"></div>
-      <div className="book-item"></div>
-      <div className="book-item"></div>
-      <div className="book-item"></div>
+      {books && (
+        <>
+          {currentInput !== null ? (
+            <>
+              {books
+                .filter((book) =>
+                  book.volumeInfo.title
+                    .toLowerCase()
+                    .includes(currentInput.toLowerCase())
+                )
+                .map((book, index) => (
+                  <Book book={book} index={index} />
+                ))}
+            </>
+          ) : (
+            <>
+              {books.map((book, index) => (
+                <Book book={book} index={index} />
+              ))}
+            </>
+          )}
+        </>
+      )}
     </div>
   );
 }

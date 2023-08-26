@@ -1,14 +1,12 @@
 import React, { createContext, useState } from "react";
 
-
 export const Context = createContext();
 
-
-export const BooksProvider = ({ children }) => {
-  const [books, setBooks] = useState([]);
+export const InputProvider = ({ children }) => {
+  const [currentInput, setCurrentInput] = useState(null);
 
   return (
-    <Context.Provider value={{ books, setBooks }}>
+    <Context.Provider value={{ currentInput, setCurrentInput }}>
       {children}
     </Context.Provider>
   );
