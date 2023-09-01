@@ -1,38 +1,92 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body {
+  background-color: #1d1d38;
+  font-family: 'Georgia', serif;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  min-height: 100vh;
 }
 
-.App-link {
-  color: #61dafb;
+.books-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+  max-width: 1200px;
+  margin: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.book {
+  border: 1px solid #000000;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #abadc7;
+  display: grid;
+  grid-template-rows: auto auto 1fr;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  color: #000000;
+}
+
+.book-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.book-header h2 {
+  margin: 0;
+  font-size: 24px;
+  color: #000000;
+}
+
+.book-thumbnail {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.book-description {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 20px 0;
+  color: #ffffff;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: #1d1d38;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #333251;
+}
+
+@media screen and (max-width: 768px) {
+  .books-container {
+    grid-template-columns: 1fr;
   }
 }
+
