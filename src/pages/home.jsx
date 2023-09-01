@@ -2,7 +2,7 @@ import Books from "../components/books";
 
 function Home(){
 
-    return <Books />
+    return  <Books />
 }
 
 export default Home;

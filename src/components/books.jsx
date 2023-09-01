@@ -1,28 +1,24 @@
 import { useState, useContext, useEffect } from "react";
 import { BooksContext } from '../store/store';
 import missingThumbnail from '../assets/missing-thumbnail.jpg';
+import Search from "./search";
 
 function Books() {
   const { booksList, setBooksList } = useContext(BooksContext);
-  const { searchTerm, setSearchTerm } = useContext(BooksContext);
-
-
-  console.log(booksList);
-  console.log(searchTerm);
+ 
 
   return (
-    <>
-      <input
-        type="text"
-        onChange={(e) => setSearchTerm(e.target.value)}></input>
-
+    <div className="home-page">
+    <Search />
+    <div className="books-container">
       {booksList.length > 0 && booksList.map((item) => (
-        <div>
-          <img src={item.volumeInfo.imageLinks?.thumbnail? item.volumeInfo.imageLinks?.thumbnail : missingThumbnail} alt=""/>
-          <h1>{item.volumeInfo.title}</h1>
+        <div className="book-card">
+          <img id="book-cover" src={item.volumeInfo.imageLinks?.thumbnail? item.volumeInfo.imageLinks?.thumbnail : missingThumbnail} alt=""/>
+          <h1 id="book-title">{item.volumeInfo.title}</h1>
         </div>
       ))}
-    </>
+      </div>
+    </div>
   )
 }
 

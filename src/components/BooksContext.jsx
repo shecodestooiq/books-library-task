@@ -3,7 +3,7 @@ import { BooksContext } from "../store/store";
 
 function BooksProvider({ children }) {
     const [booksList, setBooksList] = useState([]);
-    const [searchTerm, setSearchTerm] = useState('coding for dummies');
+    const [searchTerm, setSearchTerm] = useState('Stephen King');
   
     useEffect(
       () => {
