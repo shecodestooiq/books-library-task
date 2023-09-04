@@ -1,0 +1,756 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "95wnDQAAQBAJ",
+    "etag": "5RJyQdu0wOM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/95wnDQAAQBAJ",
+    "volumeInfo": {
+      "title": "Origin",
+      "subtitle": "From the author of the global phenomenon The Da Vinci Code (Robert Langdon Book 5)",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Random House",
+      "publishedDate": "2017-10-03",
+      "description": "The number one bestseller 'Big ideas and nonstop action.' New York Times ___ Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough. The evening's host is billionaire Edmond Kirsch, a futurist whose dazzling high-tech inventions and audacious predictions have made him a controversial figure around the world. But Langdon and several hundred guests are left reeling when the meticulously orchestrated evening is suddenly blown apart. There is a real danger that Kirsch's precious discovery may be lost in the ensuing chaos. With his life under threat, Langdon is forced into a desperate bid to escape Bilbao, taking with him the museum's director, Ambra Vidal. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch's secret. To evade a devious enemy who is one step ahead of them at every turn, Langdon and Vidal must navigate the labyrinthine passageways of extreme religion and hidden history. On a trail marked only by enigmatic symbols and elusive modern art, Langdon and Vidal will come face-to-face with a breath-taking truth that has remained buried -until now. __ Readers love Origin: ***** 'Thrilling, gripping and exhilarating to the end.' ***** 'Full of tension, excitement and intrigue.' ***** 'Action packed, tense, suspenseful, and intelligent'",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781473543348"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1473543347"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 591,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.21.19.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=95wnDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=95wnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=95wnDQAAQBAJ&printsec=frontcover&dq=danbrown&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=95wnDQAAQBAJ&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Origin.html?hl=&id=95wnDQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Origin-sample-epub.acsm?id=95wnDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=95wnDQAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "On a trail marked only by enigmatic symbols and elusive modern art, Langdon and Vidal will come face-to-face with a breath-taking truth that has remained buried -until now. __ Readers love Origin: ***** &#39;Thrilling, gripping and exhilarating ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "9nloexmq6QsC",
+    "etag": "lesLHT5TH9U",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9nloexmq6QsC",
+    "volumeInfo": {
+      "title": "Inferno",
+      "subtitle": "A Novel",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Anchor",
+      "publishedDate": "2013-05-14",
+      "description": "#1 WORLDWIDE BESTSELLER Harvard professor of symbology Robert Langdon awakens in an Italian hospital, disoriented and with no recollection of the past thirty-six hours, including the origin of the macabre object hidden in his belongings. With a relentless female assassin trailing them through Florence, he and his resourceful doctor, Sienna Brooks, are forced to flee. Embarking on a harrowing journey, they must unravel a series of codes, which are the work of a brilliant scientist whose obsession with the end of the world is matched only by his passion for one of the most influential masterpieces ever written, Dante Alighieri's The Inferno. Dan Brown has raised the bar yet again, combining classical Italian art, history, and literature with cutting-edge science in this captivating thriller.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780385537865"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0385537867"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 480,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3,
+      "ratingsCount": 3368,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.19.20.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9nloexmq6QsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9nloexmq6QsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=9nloexmq6QsC&printsec=frontcover&dq=danbrown&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=9nloexmq6QsC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Inferno.html?hl=&id=9nloexmq6QsC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Inferno-sample-epub.acsm?id=9nloexmq6QsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=9nloexmq6QsC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Dan Brown has raised the bar yet again, combining classical Italian art, history, and literature with cutting-edge science in this captivating thriller."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "GXznEnKwTdAC",
+    "etag": "xsQRK3u6W24",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/GXznEnKwTdAC",
+    "volumeInfo": {
+      "title": "Angels and Demons - Movie Tie-In",
+      "subtitle": "A Novel",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2009-03-31",
+      "description": "The murder of a world-famous physicist raises fears that the Illuminati are operating again after centuries of silence, and religion professor Robert Langdon is called in to assist with the case.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781416580829"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1416580824"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 498,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 29,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.2.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=GXznEnKwTdAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=GXznEnKwTdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=GXznEnKwTdAC&printsec=frontcover&dq=danbrown&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=GXznEnKwTdAC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Angels_Demons_Movie_Tie_In.html?hl=&id=GXznEnKwTdAC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=GXznEnKwTdAC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The murder of a world-famous physicist raises fears that the Illuminati are operating again after centuries of silence, and religion professor Robert Langdon is called in to assist with the case."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "pfB9VsrdX4IC",
+    "etag": "y9igq8hPJVg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pfB9VsrdX4IC",
+    "volumeInfo": {
+      "title": "Digital Fortress",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Random House",
+      "publishedDate": "2011-05-31",
+      "description": "*INCLUDES AN EXTRACT OF ORIGIN,THE NEW THRILLER BY DAN BROWN: OUT NOW* --------------------------------------------------------------------------------------------------- When the National Security Agency's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls in its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage - not by guns or bombs, but by a code so complex that if released would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves...",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781409091172"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1409091171"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 516,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3,
+      "ratingsCount": 3062,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.19.16.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=pfB9VsrdX4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=pfB9VsrdX4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=pfB9VsrdX4IC&printsec=frontcover&dq=danbrown&hl=&cd=4&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=pfB9VsrdX4IC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Digital_Fortress.html?hl=&id=pfB9VsrdX4IC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Digital_Fortress-sample-epub.acsm?id=pfB9VsrdX4IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=pfB9VsrdX4IC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "*INCLUDES AN EXTRACT OF ORIGIN,THE NEW THRILLER BY DAN BROWN: OUT NOW* --------------------------------------------------------------------------------------------------- When the National Security Agency&#39;s invincible code-breaking machine ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "s8l5ApOH2CwC",
+    "etag": "8xpjapVozLE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/s8l5ApOH2CwC",
+    "volumeInfo": {
+      "title": "The Lost Symbol",
+      "subtitle": "(Robert Langdon Book 3)",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Random House",
+      "publishedDate": "2009-09-15",
+      "description": "NOW A MAJOR TELEVISION SERIES _______________________________________ 'A narrative that can grip you like a vice' Daily Mail 'Impossible to put down' New York Times The Capitol Building, Washington DC: Harvard symbologist Robert Langdon believes he is here to give a lecture. He is wrong. Within minutes of his arrival, a shocking object is discovered. It is a gruesome invitation into an ancient world of hidden wisdom. When Langdon's mentor, Peter Solomon - prominent mason and philanthropist - is kidnapped, Langdon realizes that his only hope of saving his friend's life is to accept this mysterious summons. It is to take him on a breathless chase through Washington's dark history. All that was familiar is changed into a shadowy, mythical world in which Masonic secrets and never-before-seen revelations seem to be leading him to a single impossible and inconceivable truth... *INCLUDES AN EXTRACT OF ORIGIN, DAN BROWN: OUT NOW*",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781409091486"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1409091481"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 672,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 107,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "0.37.26.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=s8l5ApOH2CwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=s8l5ApOH2CwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=s8l5ApOH2CwC&printsec=frontcover&dq=danbrown&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=s8l5ApOH2CwC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Symbol.html?hl=&id=s8l5ApOH2CwC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Lost_Symbol-sample-epub.acsm?id=s8l5ApOH2CwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=s8l5ApOH2CwC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "&#39;Impossible to put down&#39; New York Times &#39;Thrilling and entertaining&#39; Los Angeles Times &#39;A narrative that can grip you like a vice&#39; Daily Mail &#39;Unputdownable."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "_xcLc9fkKsYC",
+    "etag": "czJblyofFk0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_xcLc9fkKsYC",
+    "volumeInfo": {
+      "title": "Dan Brown's The Lost Symbol",
+      "subtitle": "The Ultimate Unauthorized and Independent Reading Guide",
+      "authors": [
+        "Alex Carmine"
+      ],
+      "publisher": "Punked Books",
+      "publishedDate": "2009",
+      "description": "Dan Brown's 'The Lost Symbol' was the most anticipated novel of 2009, and was the literary event of the year. Alex Carmine examines all the themes in depth, and provides a chapter-by-chapter analysis of 'The Lost Symbol'. From Alex's assessment of the novel, it is very much apparent that Dan Brown has not only been adhering to his own formula, but that he has also been following Joseph Campbell's concept of the hero's journey. We know that Dan Brown likes to play with the names of his characters, so Alex explores these in great detail. In this way, Alex reveals the name of the real American family upon whom the Solomons are based. Alex also shows that, following its development within 'The Da Vinci Code', Dan Brown's still very much in tune with his 'sacred feminine' side, with his stunning representation of womb envy. Dan Brown's fascinating depiction of masculinity within this novel is studied too. In addition to this, Alex explores the literary devices that Dan Brown employs, and the magical sleights of hand that he uses to make the reader look the wrong way. Indeed, one of the main arguments in this book is that Dan Brown has hidden much of the true meaning of 'The Lost Symbol' behind various veils of allegory, much as the Masons do with regards to their secrets, and like the Symbologist Robert Langdon, Alex reveals these meanings to you. However, Dan Brown is an author who also likes to reward his readers, so Alex examines the clues about the novel that he disseminated prior to publication via Facebook and Twitter. Furthermore, Alex considers the various Masonic practices depicted within the novel, and bring to the fore the conspiracy theories that surround this mysterious fraternity. Alex Carmine's very close reading of the novel literally leaves no stone uncovered, and will transform your own interpretation of the text.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781908375018"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1908375019"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 158,
+      "printType": "BOOK",
+      "categories": [
+        "Literary Criticism"
+      ],
+      "averageRating": 4.5,
+      "ratingsCount": 7,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.1.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=_xcLc9fkKsYC&printsec=frontcover&dq=danbrown&hl=&cd=6&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=_xcLc9fkKsYC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dan_Brown_s_The_Lost_Symbol.html?hl=&id=_xcLc9fkKsYC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=_xcLc9fkKsYC&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Dan Brown&#39;s &#39;The Lost Symbol&#39; was the most anticipated novel of 2009, and was the literary event of the year. Alex Carmine examines all the themes in depth, and provides a chapter-by-chapter analysis of &#39;The Lost Symbol&#39;."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "R9d-BwAAQBAJ",
+    "etag": "nR7PyMOQhdY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/R9d-BwAAQBAJ",
+    "volumeInfo": {
+      "title": "Dan Brown: Author of the Da Vinci Code",
+      "authors": [
+        "Laura Malfere"
+      ],
+      "publisher": "Hyperink Inc",
+      "publishedDate": "2012-02-29",
+      "description": "ABOUT THE BOOK Anybody who takes the time to stay up to date with popular literature will have heard of the author Dan Brown, but not everyone is aware of who he is and what he does. As the famous author of the thriller series that included The Da Vinci Code, Brown has produced masterpieces that stand on the shelves of novel lovers everywhere. As well as authoring several popular books, Brown is well known for promoting an alternative approach to Christianity. Religion is a theme that is featured throughout the books he writes, sometimes in a way that has drawn in criticism from theologians. Despite this, Brown has declared in several interviews that his life is one big spiritual journey that he feels will never end. EXCERPT FROM THE BOOK Brown graduated from Phillips Exeter in 1982, at which point he went on to continue his education at Amherst College. Brown's time there saw him became a successful college squash player, as well as a member of the Psi Upsilon fraternity. It was not until Brown chose to spend a year of his education in Seville, Spain, that he began focusing on the works of Leonardo da Vinci, an interest that led to the main themes in his books. Brown later returned to Amherst College to complete his education, eventually graduating in 1986 with a degree in English and Spanish. After obtaining his degree, Brown had a brief stint as an unsuccessful singer and song writer. He attempted to establish himself in Los Angeles, producing and releasing several children's albums. Although he had considerable talent as a song writer, he could not stand up against the other talents in LA, but this was to lead to his future literary success. It was there that he met his wife Blythe, who would later be the person who spurred him towards his achievements as an author... Buy a copy to keep reading!",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9781614649021"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1614649022"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 23,
+      "printType": "BOOK",
+      "categories": [
+        "Biography and Autobiography"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.3.3.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=R9d-BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=R9d-BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=R9d-BwAAQBAJ&printsec=frontcover&dq=danbrown&hl=&cd=7&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=R9d-BwAAQBAJ&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Dan_Brown_Author_of_the_Da_Vinci_Code.html?hl=&id=R9d-BwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Dan_Brown_Author_of_the_Da_Vinci_Code-sample-epub.acsm?id=R9d-BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Dan_Brown_Author_of_the_Da_Vinci_Code-sample-pdf.acsm?id=R9d-BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=R9d-BwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "ABOUT THE BOOK Anybody who takes the time to stay up to date with popular literature will have heard of the author Dan Brown, but not everyone is aware of who he is and what he does."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "2mmGFALfiWcC",
+    "etag": "Kx8KgDdPdXw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2mmGFALfiWcC",
+    "volumeInfo": {
+      "title": "The Da Vinci Code",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Random House",
+      "publishedDate": "2006",
+      "description": "A world-renowned expert in cracking ancient codes deciphers a mind-bending series of clues embedded in the works of Leonardo da Vinci.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780552154017"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0552154016"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 612,
+      "printType": "BOOK",
+      "categories": [
+        "Art museum curators"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.9.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=2mmGFALfiWcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=2mmGFALfiWcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=2mmGFALfiWcC&dq=danbrown&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=2mmGFALfiWcC&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Da_Vinci_Code.html?hl=&id=2mmGFALfiWcC"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=2mmGFALfiWcC&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Harvard professor Robert Langdon receives an urgent late-night phone call while on business in Paris: the elderly curator of the Louvre has been brutally murdered inside the museum.Alongside the body, police have found a series of baffling ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "zD9gDwAAQBAJ",
+    "etag": "cc/6qz+i4ck",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/zD9gDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Origin",
+      "subtitle": "A Novel",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Anchor",
+      "publishedDate": "2018-07-17",
+      "description": "#1 WORLDWIDE BESTSELLER • \"Dr. Langdon is once again wrapped up in a global-scale event that could have massive ramifications on the world’s religions. As he does in all his novels, Brown[‘s] extensive research on art, architecture, and history informs every page.\" —Entertainment Weekly Robert Langdon, Harvard professor of symbology, arrives at the ultramodern Guggenheim Museum Bilbao to attend the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist, and one of Langdon’s first students. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Facing an imminent threat, Langdon is forced to flee. With him is Ambra Vidal, the elegant museum director who worked with Kirsch. They travel to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret. Navigating the dark corridors of hidden history and extreme re­ligion, Langdon and Vidal must evade an enemy whose all-knowing power seems to emanate from Spain’s Royal Palace. They uncover clues that ultimately bring them face-to-face with Kirsch’s shocking discovery…and the breathtaking truth that has long eluded us.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_13",
+          "identifier": "9780525563709"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0525563709"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 658,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=zD9gDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=zD9gDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=zD9gDwAAQBAJ&dq=danbrown&hl=&cd=9&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=zD9gDwAAQBAJ&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Origin.html?hl=&id=zD9gDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": true
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=zD9gDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "#1 WORLDWIDE BESTSELLER • &quot;Dr. Langdon is once again wrapped up in a global-scale event that could have massive ramifications on the world’s religions."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "3A3eswEACAAJ",
+    "etag": "zZEUSedPdtg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3A3eswEACAAJ",
+    "volumeInfo": {
+      "title": "Origin",
+      "authors": [
+        "Dan Brown"
+      ],
+      "publisher": "Corgi Books",
+      "publishedDate": "2018-07-10",
+      "description": "Harvard professor Robert Langdon arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough. The evening's host is billionaire Edmond Kirsch, a futurist whose dazzling high-tech inventions and audacious predictions have made him a controversial global figure. But before his secret can be revealed, the meticulously orchestrated evening is blown apart. With his life under threat, Langdon is forced to flee, aided by the museum's director, Ambra Vidal. If they are to beat a devious enemy to Kirsch's discovery, Langdon and Vidal must follow a perilous trail. signposted only by enigmatic symbols, hidden history and elusive modern art. At its end they will come face-to-face with a breathtaking truth that has remained buried - until now.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0552175692"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780552175692"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 541,
+      "printType": "BOOK",
+      "categories": [
+        "Cryptographers"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=3A3eswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=3A3eswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=3A3eswEACAAJ&dq=danbrown&hl=&cd=10&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=3A3eswEACAAJ&dq=danbrown&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Origin.html?hl=&id=3A3eswEACAAJ"
+    },
+    "saleInfo": {
+      "country": "IQ",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "IQ",
+      "viewability": "NO_PAGES",
+      "embeddable": false,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=3A3eswEACAAJ&hl=&source=gbs_api",
+      "accessViewStatus": "NONE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Harvard professor Robert Langdon arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough."
+    }
+  }
+]
