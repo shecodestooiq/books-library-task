@@ -43,9 +43,10 @@ export default function Search({ data }) {
         />
         <div className="search-icon">
           {
-            inputRef.value == 0 ?
-            <FontAwesomeIcon className='fa' icon={faMagnifyingGlass} /> :
+            showAllCards ? (
+            <FontAwesomeIcon className='fa' icon={faMagnifyingGlass} /> ):(
             <FontAwesomeIcon className='fa' id='clear-btn' icon={faXmark} onClick={handleClearInput}/>
+            )
           }
         </div>
     </div>
