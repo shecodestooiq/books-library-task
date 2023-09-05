@@ -30,17 +30,3 @@ export default function BookCard(props) {
     </Card>
   );
 }
-              // key={book.id}
-              // img={book.volumeInfo.imageLinks?.smallThumbnail}
-              // title={book.volumeInfo.title}
-              // subtitle={book.volumeInfo.subtitle}
-              // author={book.volumeInfo.authors}
-              // publisher={book.volumeInfo.publisher}
-              // publishedDate={book.volumeInfo.publishedDate}
-              // discription={book.volumeInfo.discription}
-              // pageCount={book.volumeInfo.pageCount}
-              // categories={book.volumeInfo.categories}
-              // language={book.volumeInfo.language}
-              // previewLink={book.volumeInfo.previewLink}
-              // pdf={book.volumeInfo.pdf}
-

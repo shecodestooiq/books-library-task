@@ -29,7 +29,7 @@ export default function Search({ data }) {
   }
   const handleClearInput = () => {
     setFilterdData([]);
-    showAllCards(true);
+    setShowAllCards(true);
     inputRef.current.value = "";
   }
   return (
