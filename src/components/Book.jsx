@@ -7,15 +7,14 @@ function Book({ book, index }) {
     luminosity: "random",
     hue: "random",
   });
-//   const styleChanger = (bookTitle) => {
-//     const words = bookTitle.split(" ");
+  const styleChanger = (bookTitle) => {
+    const words = bookTitle.split(" ");
+    if (words.length > 5) {
+      return { fontSize: "17px", textAlign:"center" };
+    }
 
-//     const numberOfWords = words.length;
-//     const baseFontSize = 16;
-//     const adjustedFontSize = baseFontSize + numberOfWords;
-
-//     return { fontSize: `${adjustedFontSize}px` };
-//   };
+    return { fontSize: "20px", textAlign:"center" };
+  };
 
   return (
     <div
@@ -27,10 +26,12 @@ function Book({ book, index }) {
         <img src={book.volumeInfo.imageLinks.thumbnail} alt="" />
       </div>
 
-      <div className="book-info" >
+      <div className="book-info">
         {book.volumeInfo && (
           <>
-            <h2>{book.volumeInfo.title}</h2>
+            <h2 style={styleChanger(book.volumeInfo.title)}>
+              {book.volumeInfo.title}
+            </h2>
             {book.volumeInfo.authors && <p>{book.volumeInfo.authors[0]}</p>}
           </>
         )}

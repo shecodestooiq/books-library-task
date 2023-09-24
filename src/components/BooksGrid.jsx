@@ -12,7 +12,6 @@ function BooksGrid() {
     getBooks(setBooks);
   }, []);
 
-  console.log(currentInput);
   return (
     <div className="books-wrapper">
       {books && (
